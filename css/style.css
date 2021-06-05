@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body {
+    font-family: 'Indie Flower', cursive;
+    color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+    background: black;
+}
+
+h2 {
+    text-align: center;
+    background: black;
+}
+
+.con-c {
+    width: 280px;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 20%;
+    height: 400px;
+}
+
+.con-c table {
+    margin: 0 auto;
+}
+
+.con-c table tr td button {
+    width: 65px;
+    height: 65px;
+    font-size: 40px;
+    color: rgb(1, 80, 77);
+    border-radius: 15px;
+    border: 2px solid lightseagreen;
+    margin-top: 10px;
+}
+
+#pantalla {
+    display: block;
+    margin: 0 auto;
+    text-align: right;
+    font-size: 40px;
+    background: snow;
+    width: 95%;
+    height: 80px;
+    color: rgb(1, 80, 77);
+    border: 2px solid lightseagreen;
+    border-radius: 20px;
+    line-height: 80px;
+}
+
+#calc-img {
+    display: inline-block;
+    margin-left: 200px;
+    margin-block-end: 600px;
+}
+
+
+/* #calc-img {
+    height: 1024px;
+} */
